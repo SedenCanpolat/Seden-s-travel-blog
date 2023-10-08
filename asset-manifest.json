@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Seden-s-travel-blog/static/css/main.eb9d928e.css",
+    "main.css": "/Seden-s-travel-blog/static/css/main.4666dd8f.css",
     "main.js": "/Seden-s-travel-blog/static/js/main.c44a6dd4.js",
     "static/js/787.3e11abb3.chunk.js": "/Seden-s-travel-blog/static/js/787.3e11abb3.chunk.js",
     "static/media/matt.jpg": "/Seden-s-travel-blog/static/media/matt.975b49f19c46685847d5.jpg",
     "static/media/aron-yigin-7U6KI6leN1w-unsplash.jpg": "/Seden-s-travel-blog/static/media/aron-yigin-7U6KI6leN1w-unsplash.1a82d183ceab6fbc7c1f.jpg",
     "static/media/most.jpg": "/Seden-s-travel-blog/static/media/most.22f8e0d11002b44370b7.jpg",
     "index.html": "/Seden-s-travel-blog/index.html",
-    "main.eb9d928e.css.map": "/Seden-s-travel-blog/static/css/main.eb9d928e.css.map",
+    "main.4666dd8f.css.map": "/Seden-s-travel-blog/static/css/main.4666dd8f.css.map",
     "main.c44a6dd4.js.map": "/Seden-s-travel-blog/static/js/main.c44a6dd4.js.map",
     "787.3e11abb3.chunk.js.map": "/Seden-s-travel-blog/static/js/787.3e11abb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb9d928e.css",
+    "static/css/main.4666dd8f.css",
     "static/js/main.c44a6dd4.js"
   ]
 }

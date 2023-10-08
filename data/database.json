@@ -1,0 +1,35 @@
+{
+  
+  "blogs": [
+    {
+      "title": "Seferihisar trip",
+      "author": "Seden",
+      "desc": "The water was so clean that...",
+      "body": "The water was so clear that it helped me to relax just by looking at it. I run towards the sea. While soft sand was under my feet, the sea was embracing me. The water was warm and clean. I always liked warm seas more than cold ones. This way I can stay inside it as much as I want. I love swimming.",
+      "date": "20.07.2023",
+      "place": "Seferihisar",
+      "img": "https://imgtr.ee/images/2023/09/18/61746fcd0a2106f9c321f19a44552345.md.jpeg",
+      "id": 1
+    },
+    {
+      "title": "Urla trip",
+      "author": "Seden",
+      "desc": "We went...",
+      "body": "We went to Urla.",
+      "date": "02.07.2023",
+      "place": "Urla",
+      "img": "https://e1.pxfuel.com/desktop-wallpaper/574/891/desktop-wallpaper-beautiful-sea-landscape-sea.jpg",
+      "id": 2
+    },
+    {
+      "title": "Sea trip",
+      "author": "Seden",
+      "desc": "The best sea is...",
+      "body": "The best sea is always the clean one.",
+      "date": "12.08.2023",
+      "place": "Çeşme",
+      "img": "https://imgtr.ee/images/2023/09/18/61746fcd0a2106f9c321f19a44552345.md.jpeg",
+      "id": 3
+    }
+  ]
+}
